@@ -1,0 +1,27 @@
+Items: {
+	CrimPowerCube: {
+		Tooltip: Increases 4% endurance, 2% movespeed. Add 4% damage in Crim environment
+		DisplayName: Crim Power Cube
+	}
+
+	CorruptPowerCube: {
+		Tooltip: Increases 4% endurance, 2% movespeed. Add 4% damage in Corrupt environment
+		DisplayName: Corrupt Power Cube
+	}
+}
+
+NPCs: {
+	BloodySlime.DisplayName: Bloody Slime
+	DecaySlime.DisplayName: Decay Slime
+	FesterMotherDecaySlime.DisplayName: Fester Mother Decay Slime
+	MotherGreenSlime.DisplayName: Mother Green Slime
+	MotherIceSlime.DisplayName: Mother Ice Slime
+	SpikedMotherBloodySlime.DisplayName: Spiked Mother Bloody Slime
+	VirulentSlime.DisplayName: Virulent Slime
+	AngryHunterHead.DisplayName: Angry Hunter Head
+	AngryHunterTentacle.DisplayName: Angry Hunter Tentacle
+	PeekWatcher.DisplayName: Peek Watcher
+	BloodstainedIntestineBody.DisplayName: Bloodstained Intestine Body
+	BloodstainedIntestineHead.DisplayName: Bloodstained Intestine Head
+	BloodstainedIntestineTail.DisplayName: Bloodstained Intestine Tail
+}

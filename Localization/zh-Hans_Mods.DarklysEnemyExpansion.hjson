@@ -1,0 +1,27 @@
+Items: {
+	CrimPowerCube: {
+		Tooltip: 增加4%耐力，2%移动速度，在猩红环境额外增加4%伤害
+		DisplayName: 猩红立方
+	}
+
+	CorruptPowerCube: {
+		Tooltip: 增加4%耐力，2%移动速度，在腐化环境额外增加4%伤害
+		DisplayName: 腐化立方
+	}
+}
+
+NPCs: {
+	BloodySlime.DisplayName: 血污史莱姆
+	DecaySlime.DisplayName: 腐蚀史莱姆
+	FesterMotherDecaySlime.DisplayName: 腐蚀史莱姆之母
+	MotherGreenSlime.DisplayName: 绿史莱姆之母
+	MotherIceSlime.DisplayName: 冰雪史莱姆之母
+	SpikedMotherBloodySlime.DisplayName: 尖刺血污史莱姆之母
+	VirulentSlime.DisplayName: 剧毒史莱姆
+	AngryHunterHead.DisplayName: 愤怒猎手头
+	AngryHunterTentacle.DisplayName: 愤怒猎手触手
+	PeekWatcher.DisplayName: 窥探者
+	BloodstainedIntestineBody.DisplayName: 血污肠道身体
+	BloodstainedIntestineHead.DisplayName: 血污肠道头
+	BloodstainedIntestineTail.DisplayName: 血污肠道尾
+}
