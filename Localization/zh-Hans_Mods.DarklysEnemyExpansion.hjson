@@ -24,4 +24,13 @@ NPCs: {
 	BloodstainedIntestineBody.DisplayName: 血污肠道身体
 	BloodstainedIntestineHead.DisplayName: 血污肠道头
 	BloodstainedIntestineTail.DisplayName: 血污肠道尾
+	AssassinMossHornet.DisplayName: 近卫青苔毒刺蜂
+	AssassinHornet.DisplayName: 近卫毒刺蜂
+	GiantCaveBat.DisplayName: 巨型洞穴蝙蝠
+}
+
+Bestiary: {
+	GiantCaveBat.Description: 一个在洞穴飞行的蝙蝠。仅在困难模式丛林夜晚时出现。
+	AssassinHornet.Description: 一个在丛林飞行的黄蜂。仅在丛林夜晚时出现。
+	AssassinMossHornet.Description: 一个在丛林飞行的黄蜂。仅在困难模式丛林夜晚时出现。
 }

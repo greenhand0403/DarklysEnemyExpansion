@@ -24,4 +24,13 @@ NPCs: {
 	BloodstainedIntestineBody.DisplayName: Bloodstained Intestine Body
 	BloodstainedIntestineHead.DisplayName: Bloodstained Intestine Head
 	BloodstainedIntestineTail.DisplayName: Bloodstained Intestine Tail
+	AssassinMossHornet.DisplayName: Assassin Moss Hornet
+	AssassinHornet.DisplayName: Assassin Hornet
+	GiantCaveBat.DisplayName: Giant Cave Bat
+}
+
+Bestiary: {
+	GiantCaveBat.Description: A bat that flies in the cave. Only appears in Hardmode Jungle in night.
+	AssassinHornet.Description: A hornet that flies in the jungle. Only appears in Jungle in night.
+	AssassinMossHornet.Description: A hornet that flies in the jungle. Only appears in Hardmode Jungle in night.
 }

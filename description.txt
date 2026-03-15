@@ -1,1 +1,42 @@
-Modify this file with a description of your mod.
+[h1]Darkly's Enemy Expansion(WIP)[/h1]
+
+[i]An expansion mod that adds extra enemies and enemy variants to Terraria.[/i]
+
+[hr]
+
+[b]About This Mod[/b]  
+Darkly's Enemy Expansion is an enemy expansion mod focused on adding more enemies, stronger variants, and special enemy types to Terraria.  
+Its goal is to expand combat encounters across different biomes, progression stages, and events, making exploration feel more varied and challenging.
+
+[hr]
+
+[b]Current Content[/b]
+[list]
+[*]New enemies and enemy variants  
+[*]Enemy expansions for different biomes and progression stages  
+[*]Experimental enemy AI and attack mechanics  
+[/list]
+
+[hr]
+
+[b]Development Status: WIP[/b]  
+[list]
+[*]This mod is still under active development  
+[*]Current content, balance, and visuals may continue to change  
+[*]More enemies and related mechanics are planned for future updates  
+[/list]
+
+[hr]
+
+[b]Planned Features[/b]
+[list]
+[*]More biome-specific enemies  
+[*]Enhanced enemies and special elite variants  
+[*]New projectiles and attack patterns  
+[*]A richer and more challenging combat experience  
+[/list]
+
+[hr]
+
+[i]Enemy ideas and assets are inspired and supported by Bilibili user darkly天昏地暗. Thanks![/i]  
+[i]Feedback, suggestions, and ratings are welcome![/i]

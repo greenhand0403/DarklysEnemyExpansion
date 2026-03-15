@@ -328,7 +328,7 @@ namespace DarklysEnemyExpansion.Content.NPCs
             NPC.height = 44;
             NPC.damage = 22;
             NPC.defense = 8;
-            NPC.lifeMax = 12000;
+            NPC.lifeMax = 1200;
 
             NPC.knockBackResist = 0f;
             NPC.value = 150f;
@@ -373,7 +373,7 @@ namespace DarklysEnemyExpansion.Content.NPCs
             NPC.height = 44;
             NPC.damage = 28;
             NPC.defense = 10;
-            NPC.lifeMax = Main.hardMode ? 26000 : 18000;
+            NPC.lifeMax = Main.hardMode ? 2600 : 1800;
 
             NPC.aiStyle = -1;
 
@@ -423,7 +423,7 @@ namespace DarklysEnemyExpansion.Content.NPCs
             NPC.height = 44;
             NPC.damage = 20;
             NPC.defense = 8;
-            NPC.lifeMax = Main.hardMode ? 18000 : 11000;
+            NPC.lifeMax = Main.hardMode ? 1800 : 1100;
 
             NPC.aiStyle = -1;
         }
@@ -439,7 +439,7 @@ namespace DarklysEnemyExpansion.Content.NPCs
             NPC.height = 44;
             NPC.damage = 16;
             NPC.defense = 6;
-            NPC.lifeMax = Main.hardMode ? 15000 : 9000;
+            NPC.lifeMax = Main.hardMode ? 1500 : 900;
 
             NPC.aiStyle = -1;
         }
